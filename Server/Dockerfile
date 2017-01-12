@@ -16,4 +16,3 @@ EXPOSE 80
 EXPOSE 443
 
 RUN apt-get install -y php5-fpm
-
